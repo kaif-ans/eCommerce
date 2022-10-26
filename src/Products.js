@@ -13,9 +13,7 @@ export default function Products() {
       </h4>
     </div>
   ));
-  return (
-    <div>
-      <div className="main">{products}</div>
-    </div>
+  return (   
+      <div className="main">{products}</div>   
   );
 }
