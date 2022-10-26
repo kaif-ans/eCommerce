@@ -5,7 +5,6 @@ import { useParams } from "react-router-dom";
 export default function ProductsDetail() {
   const { productId } = useParams();
   const thisProduct = productsData.find((prod) => prod.id == productId);
-  console.log("gitcheck")
   return (
     <div>
       <div className="detail-box">
