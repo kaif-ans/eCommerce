@@ -17,5 +17,3 @@ export default function Products() {
       <div className="main">{products}</div>   
   );
 }
-
-
