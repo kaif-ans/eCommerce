@@ -31,4 +31,3 @@ export default function ProductsDetail() {
     </div>
   );
 }
-
