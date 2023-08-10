@@ -204,3 +204,4 @@ export default [
     rating: { rate: 3.6, count: 145 },
   },
 ];
+
